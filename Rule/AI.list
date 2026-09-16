@@ -1,0 +1,19 @@
+# NAME: AI
+# DESCRIPTION: ChatGPT / Gemini / Grok
+# UPDATED: 2026-09-16
+
+# ChatGPT / OpenAI
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,openaimerge.com
+
+# Gemini
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
