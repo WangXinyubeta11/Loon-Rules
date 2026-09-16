@@ -1,0 +1,72 @@
+# NAME: Proxy
+# DESCRIPTION: Personal Global Proxy Rules
+# UPDATED: 2026-09-16
+
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,1e100
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,ggpht.com
+
+# Meta
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+
+# X / Twitter
+DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+
+# Microsoft / OneDrive
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,live.com
+
+# Dropbox
+DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+
+# Spotify
+DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spotifycdn.com
+
+# PayPal
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
+
+# Blogspot / Blogger
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogger.com
+
+# Other Services
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,sci-hub
+
+# User Agent
+USER-AGENT,Duolingo*
+USER-AGENT,OneDrive*
+USER-AGENT,PayPal*
+USER-AGENT,WhatsApp*
