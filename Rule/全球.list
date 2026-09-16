@@ -70,3 +70,21 @@ USER-AGENT,Duolingo*
 USER-AGENT,OneDrive*
 USER-AGENT,PayPal*
 USER-AGENT,WhatsApp*
+
+# GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubstatus.com
+
+# Personal
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,hyperkey.app
+DOMAIN-SUFFIX,runninghub.ai
+DOMAIN-SUFFIX,web.archive.org
+DOMAIN-SUFFIX,parallels.cn
+DOMAIN-SUFFIX,t66y.com
+DOMAIN-SUFFIX,sis001.com
+DOMAIN-SUFFIX,xchina.co
+DOMAIN-SUFFIX,feedly.com
