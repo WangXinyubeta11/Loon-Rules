@@ -1,0 +1,33 @@
+# NAME: Microsoft
+# DESCRIPTION: Microsoft Services
+# UPDATED: 2026-09-16
+
+# Microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoft365.com
+DOMAIN-SUFFIX,microsoftonline-p.com
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+
+# Microsoft Account / Live
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,account.microsoft.com
+
+# Office
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+
+# OneDrive
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,1drv
+
+# Windows
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
