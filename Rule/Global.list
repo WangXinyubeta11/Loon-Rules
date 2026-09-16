@@ -31,23 +31,6 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
 
-# Microsoft / OneDrive
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,skydrive
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,microsoft365.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-
 # Dropbox
 DOMAIN-KEYWORD,dropbox
 DOMAIN-SUFFIX,dropbox.com
