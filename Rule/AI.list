@@ -17,3 +17,13 @@ DOMAIN,generativelanguage.googleapis.com
 # Grok
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+
+# Apple Intelligence / Siri
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+
+# Apple Intelligence / Private Cloud Compute
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.apple.com
