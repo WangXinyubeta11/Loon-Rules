@@ -19,11 +19,19 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
 
 # Apple Intelligence / Siri
-DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,cp4.cloudflare.com
 
 # Apple Intelligence / Private Cloud Compute
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,cp4.cloudflare.com
-DOMAIN,apple-relay.apple.com
+DOMAIN,gateway.icloud.com
+DOMAIN,gateway.fe2.apple-dns.net
+DOMAIN,seed.siri.apple.com
+DOMAIN-SUFFIX,v.aaplimg.com
+DOMAIN,seed-siri-apple-com.v.aaplimg.com
+DOMAIN,smoot-searchv2-aapse1c.v.aaplimg.com
