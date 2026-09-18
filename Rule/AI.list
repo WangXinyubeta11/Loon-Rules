@@ -1,19 +1,71 @@
 # NAME: AI
-# DESCRIPTION: ChatGPT / Gemini / Grok
-# UPDATED: 2026-09-16
+# DESCRIPTION: Major AI Services
+# UPDATED: 2026-09-18
 
 # ChatGPT / OpenAI
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,openaimerge.com
+DOMAIN-SUFFIX,sora.com
 
-# Gemini
-DOMAIN,gemini.google.com
-DOMAIN,generativelanguage.googleapis.com
+# Claude / Anthropic
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com
 
-# Grok
+# Gemini / Google AI
+DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN,jules.google.com
+DOMAIN,aida.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
+
+# Grok / xAI
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+# Poe
+DOMAIN-SUFFIX,poe.com
+
+# OpenRouter
+DOMAIN,openrouter.ai
+
+# Meta AI
+DOMAIN-SUFFIX,meta.ai
+
+# Other AI Services
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN,gateway.ai.cloudflare.com
+
+# AI Coding
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN,api.jetbrains.ai
