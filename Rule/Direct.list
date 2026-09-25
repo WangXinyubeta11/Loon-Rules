@@ -3,5 +3,5 @@
 # UPDATED: 2026-09-16
 
 # iCloud Mail
-DOMAIN,p37-smtp.mail.me.com
-DOMAIN,p37-imap.mail.me.com
+DOMAIN,smtp.mail.me.com
+DOMAIN,imap.mail.me.com
