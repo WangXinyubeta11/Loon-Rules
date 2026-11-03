@@ -12,12 +12,9 @@ DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlehosted.com
 DOMAIN-SUFFIX,googlezip.net
-DOMAIN-SUFFIX,update.googleapis.com
 DOMAIN-SUFFIX,1e100.net
 
 # Google Accounts
-DOMAIN-SUFFIX,accounts.google.com
-DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,recaptcha.net
 
 # Gmail
@@ -26,26 +23,16 @@ DOMAIN-SUFFIX,googlemail.com
 
 # Google Drive & Docs
 DOMAIN-SUFFIX,googledrive.com
-DOMAIN-SUFFIX,docs.google.com
-DOMAIN-SUFFIX,drive.google.com
-DOMAIN-SUFFIX,googlevideo.com
 
 # Google Photos
 DOMAIN-SUFFIX,photos.google.com
 
 # Google Maps
 DOMAIN-SUFFIX,googlemaps.com
-DOMAIN-SUFFIX,maps.googleapis.com
 
-# Google Translate
-DOMAIN-SUFFIX,translate.google.com
-
-# Google Play
+# Google Play & Android
 DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,android.clients.google.com
-DOMAIN-SUFFIX,play.google.com
 DOMAIN-SUFFIX,googleplay.com
-DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 
@@ -55,7 +42,6 @@ DOMAIN-SUFFIX,fonts.gstatic.com
 
 # Google Firebase
 DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,firebasestorage.googleapis.com
 DOMAIN-SUFFIX,firebaseapp.com
 
 # Google Analytics & Ads
@@ -66,14 +52,19 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googleadservices.com
 
+# Google Chrome & Updates
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromewebstore.google.com
+
 # Google Other Services
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogspot.com
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,google.org
 DOMAIN-SUFFIX,google.dev
-DOMAIN-SUFFIX,goog
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,googlevideo.com
